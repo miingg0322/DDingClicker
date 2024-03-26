@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210032955435",
+    "project_id": "clicker-ca3c6",
+    "storage_bucket": "clicker-ca3c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210032955435:android:b99e39b0b4c3e757029a6e",
+        "android_client_info": {
+          "package_name": "com.DDingDdo.Clicker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQWrzcDHT0crGWBOn6j1xYWFo8S_Zt-Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
